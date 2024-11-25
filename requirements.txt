@@ -1,0 +1,9 @@
+gestion_docs/
+├── main.py          # Fichier principal pour exécuter l'application.
+├── ui/              # Dossier contenant les fichiers d'interface utilisateur.
+│   ├── main_window.py
+│   └── document_form.py
+├── models/          # Gestion des données et modèles.
+│   ├── database.py  # Connexion et opérations avec la base de données.
+│   └── document.py  # Modèle pour les documents commerciaux.
+└── assets/          # Images, icônes, fichiers CSS.
